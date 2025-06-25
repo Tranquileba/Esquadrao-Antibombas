@@ -1,8 +1,6 @@
 # Esquadrao-Antibombas
 
 Componentes:
-
-- Adísio Pereira Fialho Júnior 
 - Sonaly Katly Garcia Nunes 
 - Roberta Felix da Silva
 
